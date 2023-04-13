@@ -48,4 +48,4 @@ Step 3: Within the Control Panel select Programs -> Next, select "Turn Windows f
 <img src="https://i.imgur.com/nSrjRJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/CrFsp1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IjSP92S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

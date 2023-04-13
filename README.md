@@ -48,4 +48,4 @@ Step 2: Navigate to the Control Panel by using the search bar.
 Step 3: Within the Control Panel select Programs ->
 </p>
 <p>
-<img src="https://i.imgur.com/G9Phvpg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CrFsp1m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

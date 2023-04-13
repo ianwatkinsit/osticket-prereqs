@@ -42,7 +42,7 @@ Step 2: Navigate to the Control Panel by using the search bar.
 <p>
 <img src="https://i.imgur.com/Z6TopQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Step 3: Within the Control Panel select Programs ->
+Step 3: Within the Control Panel select Programs -> Next, select "Turn Windows features on or off"
 </p>
 <p>
 <img src="https://i.imgur.com/nSrjRJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

@@ -40,7 +40,7 @@ Step 1: Login to Windows 10 Virtual Machine.
 Step 2: Navigate to the Control Panel by using the search bar. 
 </p>
 <p>
-<img src="https://i.imgur.com/mGrO8r5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Z6TopQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 <img src="https://i.imgur.com/2AWOSjx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
